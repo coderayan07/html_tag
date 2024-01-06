@@ -17,3 +17,5 @@ z-index:;
 flex-warp:;
 font-family:;
 list-style:;
+border-radius:;
+border:2px solid #000;
