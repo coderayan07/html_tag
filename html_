@@ -12,3 +12,5 @@ margin:
 padding:
 text-align:;
 position:;
+display:;
+z-index:;
