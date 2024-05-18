@@ -24,3 +24,5 @@ font-weight: bold;
 justify-content: space-between;
 aspect-ratio: 3/2;
 object-fit: contain;
+
+
